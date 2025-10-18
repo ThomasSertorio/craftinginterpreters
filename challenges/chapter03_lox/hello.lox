@@ -1,0 +1,7 @@
+fun greeting(person) {
+  print "Hello " + person;
+}
+
+var thomas = "Thomas";
+
+greeting(thomas);
